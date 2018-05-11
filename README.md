@@ -12,3 +12,5 @@ My homework for learning Machine Learning taught by Hung-yi Lee.
 
 [numpy quick start](https://docs.scipy.org/doc/numpy-dev/user/quickstart.html)
 
+## HW2
+[overview of GD optimization algorithms](http://ruder.io/optimizing-gradient-descent/)
